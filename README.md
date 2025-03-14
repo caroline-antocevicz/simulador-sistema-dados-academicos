@@ -1,0 +1,1 @@
+Este projeto acadêmico, desenvolvido para a disciplina de Raciocínio Computacional, consiste em um sistema de gestão de dados acadêmicos. O sistema permite o cadastro, edição e consulta de informações sobre alunos, cursos, notas e disciplinas.
